@@ -1,0 +1,66 @@
+#profile-wrap {
+	background-color: #ffffff;
+	padding: 50px 20px;
+	margin-bottom: 50px;
+	width: 700px;
+}
+
+#editreviewPost {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#update-profile {
+	margin-top: 10px;
+}
+
+.username{
+	font-weight: 20px;
+}
+label {
+	color: #337ab7;
+	padding: 10px 10px;
+	border: 2px solid #337ab7;
+	border-radius: 5px;
+}
+
+label:hover {
+	color: #5593c6;
+	border-color: #5593c6;
+}
+
+.profile-smiley {
+	width: 45px;
+	padding: 5px 5px;
+
+}
+
+.score {
+	padding-left: 22px;
+
+}
+.count{
+	color: #f2755c;
+}
+
+#score-stable {
+	margin-left: 20px;
+
+}
+
+#left-margin-sm {
+	margin-left: 2px;
+}
+
+.year{
+	text-align: left;
+}
+
+.wrap{
+	width: 100%;
+  position: relative;
+  border-bottom: 2px solid #d9d9d9;
+  padding-bottom: 13px;
+  margin-bottom: 27px;
+	 outline:white;
+}

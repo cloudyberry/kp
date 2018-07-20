@@ -1,0 +1,63 @@
+
+
+#reviewForm-wrap {
+	/* background-color: #eaeaea; */
+	background-color: white;
+	padding: 20px 20px;
+	margin-bottom: 50px;
+  width: 700px; 
+	 font-family: Montserrat !important;
+}
+
+/* .input {
+            background: transparent;
+            border-top: transparent !important;
+            border-left: transparent !important;
+            border-right: transparent !important;
+            border-bottom: 4px transparent !important;
+            font-weight: 200;
+            color: white;
+            padding-left: 0;
+						opacity: 0;
+         box-shadow: none !important;
+				  outline:white;
+} */
+
+.form-control{
+	border-color: white !important;
+ -webkit-box-shadow: white !important;
+ box-shadow: none !important;
+   outline:white !important;
+	 font-family: Montserrat !important;
+}
+.form-control:focus {
+  border-color: white !important;
+  -webkit-box-shadow: white !important;
+  box-shadow: none !important;
+	outline: white !important;
+  font-family: Montserrat !important;
+}
+
+/* .form-control::after {
+  border-color: white;
+  -webkit-box-shadow: white;
+  box-shadow: none;
+	outline: white;
+} */
+.wrap{
+	width: 100%;
+  position: relative;
+  border-bottom: 2px solid #d9d9d9;
+  padding-bottom: 13px;
+  margin-bottom: 27px;
+	 outline:white;
+}
+
+.wrap1{
+  font-family: Poppins-Regular;
+  font-size: 13px;
+  color: #666666;
+  line-height: 1.5;
+  padding-left: 5px;
+	text-align: left;
+}

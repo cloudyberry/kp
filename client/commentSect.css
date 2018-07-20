@@ -1,0 +1,15 @@
+.btn-primary{
+  background-color: #5ab5e2 !important;
+    color: #57564E !important;
+    border-color: #5ab5e2 !important;
+}
+
+.wrap1{
+	width: 100%;
+  position: relative;
+  border-bottom: 2px solid #d9d9d9;
+  padding-top: 2px;
+  padding-bottom: 0px;
+  margin-bottom: 5px;
+	 outline:white;
+}
